@@ -1,0 +1,8 @@
+1. Get the data raedy.
+2. Define the Input
+3. Define the output
+4. Normalize the data
+5. Build the Model
+6. Error check
+7. Perfromance measurment
+8. Test and validation 

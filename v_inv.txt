@@ -1,0 +1,4 @@
+1. Open the repo
+2.Activate  virtual environment: source deep_env/bin/activate
+3. check env: which python
+4. install pkg

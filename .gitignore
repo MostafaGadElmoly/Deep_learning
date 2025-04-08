@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+deep_env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# MacOS files
+.DS_Store
+
+# Data files
+*.csv
+*.tsv
+*.h5
+*.npz
+*.npy
+*.pkl
+*.pt
+*.ckpt
+*.log
+*.zip
+*.tar.gz
+
+# Large folders (you can customize)
+datasets/
+data/
+logs/
+checkpoints/
+runs/
+outputs/
+models/
+
+# VS Code settings (if using VS Code)
+.vscode/
+
+# TensorBoard logs
+events.out.tfevents.*
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# PyCharm
+.idea/
+
+# Ignore test cache
+.pytest_cache/
+
+# TensorFlow Datasets cache directory
+~/tensorflow_datasets/
+tensorflow_datasets/
+~/.tensorflow_datasets/
+
+# Custom dataset storage
+data/
+datasets/
+
+# TFDS data cache
+tensorflow_datasets/
+
